@@ -1,6 +1,10 @@
-#include <studio.h>
+#include <stdio.h>
 
 int main(){
-pritf("desafio das super cartas trunfo! \n");
+pritf("desafio das super cartas trunfo! \n") 
 }
+
+
+
+
 
